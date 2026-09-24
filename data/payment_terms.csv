@@ -1,0 +1,7 @@
+term_id,name,days
+PT01,Net 30,30
+PT02,Net 45,45
+PT03,Net 60,60
+PT04,Net 90,90
+PT05,COD,0
+PT06,Net 15,15

@@ -1,0 +1,9 @@
+services:
+  dashboard:
+    build: .
+    image: procurement-dashboard
+    ports:
+      - "5177:5177"
+    environment:
+      PORT: 5177
+    restart: unless-stopped

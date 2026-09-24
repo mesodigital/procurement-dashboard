@@ -1,0 +1,41 @@
+item_id,item_code,item_name,description,category_id,subcategory_id,uom,standard_price,min_order_qty,is_catalogued,hs_code
+ITM0001,MAT-00002,"Laptop 14"" i7","Laptop 14"" i7 grade standard for IT Hardware",CAT001,,unit,14904.34,10,false,HS5012
+ITM0002,MAT-00003,Server Rack 2U,Server Rack 2U grade standard for IT Hardware,CAT001,,unit,39674.97,1,true,HS7912
+ITM0003,MAT-00004,"Monitor 27""","Monitor 27"" grade standard for IT Hardware",CAT001,,unit,2900.34,5,false,HS9279
+ITM0004,MAT-00005,Network Switch 48-port,Network Switch 48-port grade standard for IT Hardware,CAT001,,unit,9999.96,20,true,HS4611
+ITM0005,MAT-00006,SSD 1TB NVMe,SSD 1TB NVMe grade standard for IT Hardware,CAT001,,pcs,1336.29,1,true,HS3615
+ITM0006,MAT-00007,Printer Laser A3,Printer Laser A3 grade standard for IT Hardware,CAT001,,unit,7069.47,5,true,HS4527
+ITM0007,MAT-00008,MS365 Business License,MS365 Business License grade standard for IT Software & Licenses,CAT002,,license,1964.60,1,true,HS7224
+ITM0008,MAT-00009,Antivirus Enterprise,Antivirus Enterprise grade standard for IT Software & Licenses,CAT002,,license,413.70,10,true,HS1711
+ITM0009,MAT-00010,ERP Module License,ERP Module License grade standard for IT Software & Licenses,CAT002,,license,33470.28,20,true,HS2291
+ITM0010,MAT-00011,Cloud Hosting (annual),Cloud Hosting (annual) grade standard for IT Software & Licenses,CAT002,,subscription,24249.80,10,true,HS4150
+ITM0011,MAT-00012,Steel Sheet 2mm,Steel Sheet 2mm grade standard for Raw Materials,CAT003,,ton,13011.43,5,false,HS5741
+ITM0012,MAT-00013,Aluminium Ingot,Aluminium Ingot grade standard for Raw Materials,CAT003,,ton,24134.97,1,true,HS7227
+ITM0013,MAT-00014,Copper Wire 2.5mm,Copper Wire 2.5mm grade standard for Raw Materials,CAT003,,roll,812.26,10,true,HS3664
+ITM0014,MAT-00015,Resin Pellets,Resin Pellets grade standard for Raw Materials,CAT003,,ton,15389.77,10,false,HS2169
+ITM0015,MAT-00016,Carton Box 40x30x20,Carton Box 40x30x20 grade standard for Packaging,CAT004,,pcs,7.66,5,false,HS3677
+ITM0016,MAT-00017,Stretch Film Roll,Stretch Film Roll grade standard for Packaging,CAT004,,roll,64.51,5,true,HS6313
+ITM0017,MAT-00018,Pallet Wood Standard,Pallet Wood Standard grade standard for Packaging,CAT004,,pcs,101.51,5,true,HS1525
+ITM0018,MAT-00019,Bubble Wrap 100m,Bubble Wrap 100m grade standard for Packaging,CAT004,,roll,127.32,1,true,HS4456
+ITM0019,MAT-00020,Trucking Jakarta-Surabaya,Trucking Jakarta-Surabaya grade standard for Logistics & Freight,CAT005,,trip,9202.33,10,true,HS4483
+ITM0020,MAT-00021,Air Freight Batch,Air Freight Batch grade standard for Logistics & Freight,CAT005,,shipment,26808.28,20,true,HS3340
+ITM0021,MAT-00022,Sea Freight FCL 20ft,Sea Freight FCL 20ft grade standard for Logistics & Freight,CAT005,,container,17153.57,10,false,HS8019
+ITM0022,MAT-00023,A4 Paper 80gsm,A4 Paper 80gsm grade standard for Office Supplies,CAT006,,ream,56.14,5,true,HS3266
+ITM0023,MAT-00024,Ballpoint Blue,Ballpoint Blue grade standard for Office Supplies,CAT006,,box,38.07,1,false,HS2796
+ITM0024,MAT-00025,Toner Cartridge,Toner Cartridge grade standard for Office Supplies,CAT006,,pcs,576.95,20,false,HS2040
+ITM0025,MAT-00026,Whiteboard Marker,Whiteboard Marker grade standard for Office Supplies,CAT006,,pack,43.96,20,true,HS9669
+ITM0026,MAT-00027,Stapler Heavy Duty,Stapler Heavy Duty grade standard for Office Supplies,CAT006,,unit,137.79,1,true,HS2876
+ITM0027,MAT-00028,Bearing SKF 6204,Bearing SKF 6204 grade standard for MRO / Maintenance,CAT007,,pcs,191.72,10,true,HS6573
+ITM0028,MAT-00029,Hydraulic Oil 20L,Hydraulic Oil 20L grade standard for MRO / Maintenance,CAT007,,pail,719.40,20,true,HS1053
+ITM0029,MAT-00030,V-Belt B-Series,V-Belt B-Series grade standard for MRO / Maintenance,CAT007,,pcs,103.62,10,true,HS9201
+ITM0030,MAT-00031,Gasket Set,Gasket Set grade standard for MRO / Maintenance,CAT007,,set,252.57,1,true,HS5889
+ITM0031,MAT-00032,Air Filter Compressor,Air Filter Compressor grade standard for MRO / Maintenance,CAT007,,pcs,341.87,5,true,HS3504
+ITM0032,MAT-00033,Office Cleaning Monthly,Office Cleaning Monthly grade standard for Facility Services,CAT008,,month,11697.39,1,false,HS6310
+ITM0033,MAT-00034,AC Maintenance Service,AC Maintenance Service grade standard for Facility Services,CAT008,,unit,848.06,10,false,HS6038
+ITM0034,MAT-00035,Security Guard Monthly,Security Guard Monthly grade standard for Facility Services,CAT008,,month,20853.59,1,false,HS2403
+ITM0035,MAT-00036,Audit Service Annual,Audit Service Annual grade standard for Professional Services,CAT009,,project,188348.67,5,true,HS3103
+ITM0036,MAT-00037,Legal Consulting,Legal Consulting grade standard for Professional Services,CAT009,,hour,1547.93,5,true,HS5342
+ITM0037,MAT-00038,Training Program,Training Program grade standard for Professional Services,CAT009,,batch,45249.06,5,true,HS9835
+ITM0038,MAT-00039,Sulfuric Acid 98%,Sulfuric Acid 98% grade standard for Chemicals,CAT010,,drum,2942.95,10,true,HS7537
+ITM0039,MAT-00040,Caustic Soda,Caustic Soda grade standard for Chemicals,CAT010,,ton,18133.99,20,true,HS9479
+ITM0040,MAT-00041,Solvent Xylene,Solvent Xylene grade standard for Chemicals,CAT010,,drum,3168.95,1,false,HS6539

@@ -1,0 +1,11 @@
+category_id,category_name,parent_category_id,kraljic_quadrant,abc_class,xyz_class
+CAT001,IT Hardware,,strategic,A,X
+CAT002,IT Software & Licenses,,strategic,A,Y
+CAT003,Raw Materials,,strategic,A,X
+CAT004,Packaging,,leverage,B,X
+CAT005,Logistics & Freight,,leverage,B,Y
+CAT006,Office Supplies,,non-critical,C,Z
+CAT007,MRO / Maintenance,,bottleneck,B,Y
+CAT008,Facility Services,,non-critical,C,Z
+CAT009,Professional Services,,leverage,B,Y
+CAT010,Chemicals,,bottleneck,A,Y

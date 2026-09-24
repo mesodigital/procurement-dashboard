@@ -1,0 +1,31 @@
+vendor_id,vendor_name,vendor_code,npwp,bank_account_name,bank_account_no,bank_name,address,city,country,category_type,is_local,ownership_type,status,registration_date,credit_rating
+VEN001,PT Teknologi Nusantara,VC0001,85.667.335.4-107.000,PT Anda Perkasa,1252860896,BCA,Jl. Industri No.85,Jakarta,Indonesia,supplier,true,women-owned,active,2017-09-01,A
+VEN002,CV Sumber Makmur,VC0002,79.235.840.8-348.000,CV Sumber Makmur,8763140509,BCA,Jl. Industri No.169,Medan,Indonesia,manufacturer,true,,active,2019-10-01,BBB
+VEN003,PT Global Material,VC0003,96.769.761.2-162.000,PT Global Material,4700855390,Mandiri,Jl. Industri No.138,Jakarta,Indonesia,manufacturer,true,,active,2019-09-25,AA
+VEN004,PT Logistik Cepat,VC0004,19.553.927.9-200.000,PT Inti Persada,4590711152,Mandiri,Jl. Industri No.43,Medan,Indonesia,manufacturer,true,minority,suspended,2020-05-25,AA
+VEN005,CV Berkah Jaya,VC0005,31.488.102.7-371.000,CV Berkah Jaya,8667072205,Danamon,Jl. Industri No.188,Jakarta,Indonesia,distributor,true,minority,active,2016-09-26,AA
+VEN006,PT Sinergi Prima,VC0006,84.853.655.1-865.000,PT Sinergi Prima,9805294274,CIMB Niaga,Jl. Industri No.41,Jakarta,Indonesia,supplier,true,women-owned,active,2015-11-25,AA
+VEN007,PT Karya Mandiri,VC0007,85.667.335.4-107.000,PT Karya Mandiri,6305160342,CIMB Niaga,Jl. Industri No.64,Surabaya,Indonesia,distributor,true,women-owned,active,2015-06-12,BB
+VEN008,CV Anugerah Sentosa,VC0008,43.309.785.6-344.000,CV Anugerah Sentosa,8067372072,BCA,Jl. Industri No.3,Singapore,Singapore,manufacturer,false,women-owned,active,2021-04-25,AAA
+VEN009,PT Mitra Abadi,VC0009,74.371.235.6-170.000,PT Mitra Abadi,6882074066,CIMB Niaga,Jl. Industri No.181,Medan,Indonesia,manufacturer,true,women-owned,active,2022-05-02,BB
+VEN010,PT Sinar Terang,VC0010,94.206.999.3-370.000,PT Logistik Cepat,5962610986,Mandiri,Jl. Industri No.184,Semarang,Indonesia,manufacturer,true,,active,2022-09-16,B
+VEN011,CV Bintang Timur,VC0011,42.966.152.2-749.000,CV Bintang Timur,2188332531,Mandiri,Jl. Industri No.164,Shanghai,China,manufacturer,false,,active,2023-04-25,BBB
+VEN012,PT Dharma Utama,VC0012,81.109.214.2-807.000,PT Dharma Utama,3343292475,CIMB Niaga,Jl. Industri No.142,Kuala Lumpur,Malaysia,supplier,false,minority,active,2016-06-06,AAA
+VEN013,PT Cipta Inovasi,VC0013,55.315.798.4-782.000,PT Energi Kimia,9051829827,Danamon,Jl. Industri No.40,Jakarta,Indonesia,supplier,true,,suspended,2023-12-21,AA
+VEN014,CV Rezeki Lancar,VC0014,32.854.440.7-921.000,CV Rezeki Lancar,6360837474,Danamon,Jl. Industri No.28,Jakarta,Indonesia,manufacturer,true,,active,2020-04-11,AA
+VEN015,PT Prima Solusi,VC0015,54.412.940.4-328.000,PT Karya Mandiri,7006365648,BCA,Jl. Industri No.198,Shanghai,China,manufacturer,false,,active,2022-03-12,BB
+VEN016,PT Multi Sarana,VC0016,13.218.998.5-282.000,PT Multi Sarana,9519284858,CIMB Niaga,Jl. Industri No.112,Singapore,Singapore,manufacturer,false,,active,2019-11-23,BB
+VEN017,CV Tunas Harapan,VC0017,59.690.294.5-145.000,CV Tunas Harapan,9597198563,CIMB Niaga,Jl. Industri No.176,Surabaya,Indonesia,distributor,true,,blacklist,2019-01-31,BBB
+VEN018,PT Inti Persada,VC0018,89.421.779.2-837.000,PT Inti Persada,7473041886,BNI,Jl. Industri No.104,Singapore,Singapore,distributor,false,,active,2021-03-20,AA
+VEN019,PT Cahaya Baru,VC0019,96.866.278.5-515.000,PT Cahaya Baru,5296710795,BRI,Jl. Industri No.149,Kuala Lumpur,Malaysia,distributor,false,,active,2020-03-19,BBB
+VEN020,CV Surya Gemilang,VC0020,75.584.912.3-774.000,CV Tunas Harapan,7954672204,Mandiri,Jl. Industri No.173,Medan,Indonesia,manufacturer,true,,active,2017-03-26,AA
+VEN021,PT Anda Perkasa,VC0021,85.667.335.4-107.000,PT Anda Perkasa,4300636585,Danamon,Jl. Industri No.148,Medan,Indonesia,supplier,true,minority,active,2020-07-17,BBB
+VEN022,PT Nusa Teknik,VC0022,23.897.535.4-280.000,PT Nusa Teknik,2995226582,BCA,Jl. Industri No.117,Jakarta,Indonesia,supplier,true,minority,active,2022-06-27,BB
+VEN023,CV Mandiri Sejahtera,VC0023,66.727.934.9-536.000,CV Mandiri Sejahtera,7648059419,Danamon,Jl. Industri No.122,Singapore,Singapore,manufacturer,false,,active,2023-06-07,AA
+VEN024,PT Graha Logam,VC0024,76.596.741.4-381.000,PT Graha Logam,8359619163,BNI,Jl. Industri No.82,Semarang,Indonesia,distributor,true,,active,2016-07-20,AA
+VEN025,PT Energi Kimia,VC0025,37.165.524.7-438.000,PT Energi Kimia,2785736751,BRI,Jl. Industri No.100,Bandung,Indonesia,distributor,true,,active,2023-08-02,BB
+VEN026,CV Panca Warna,VC0026,55.405.871.7-973.000,CV Panca Warna,8884394611,Danamon,Jl. Industri No.140,Jakarta,Indonesia,distributor,true,,active,2020-06-22,AA
+VEN027,PT Arta Niaga,VC0027,13.498.444.7-841.000,PT Arta Niaga,1116402431,Mandiri,Jl. Industri No.119,Shanghai,China,supplier,false,,active,2017-12-01,BBB
+VEN028,PT Wira Usaha,VC0028,51.445.879.7-384.000,PT Wira Usaha,8868054898,BCA,Jl. Industri No.121,Shanghai,China,supplier,false,women-owned,active,2015-08-02,A
+VEN029,CV Kencana Mas,VC0029,93.141.872.1-353.000,CV Kencana Mas,9677466102,Mandiri,Jl. Industri No.122,Surabaya,Indonesia,distributor,true,,active,2021-04-29,AA
+VEN030,PT Bahari Jaya,VC0030,57.271.720.2-896.000,PT Bahari Jaya,9438411468,BCA,Jl. Industri No.80,Semarang,Indonesia,distributor,true,minority,active,2019-06-13,B

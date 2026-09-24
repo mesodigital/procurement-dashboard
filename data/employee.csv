@@ -1,0 +1,41 @@
+employee_id,name,role,department_id,approval_limit,position_level
+EMP001,Employee 1,Senior Staff,DEP06,50000000,2
+EMP002,Employee 2,Staff,DEP06,10000000,1
+EMP003,Employee 3,Supervisor,DEP06,150000000,3
+EMP004,Employee 4,Senior Staff,DEP01,50000000,2
+EMP005,Employee 5,Supervisor,DEP05,150000000,3
+EMP006,Employee 6,Supervisor,DEP03,150000000,3
+EMP007,Employee 7,Senior Staff,DEP06,50000000,2
+EMP008,Employee 8,Senior Staff,DEP05,50000000,2
+EMP009,Employee 9,Senior Staff,DEP01,50000000,2
+EMP010,Employee 10,Supervisor,DEP04,150000000,3
+EMP011,Employee 11,Staff,DEP03,10000000,1
+EMP012,Employee 12,Senior Staff,DEP04,50000000,2
+EMP013,Employee 13,Supervisor,DEP04,150000000,3
+EMP014,Employee 14,Staff,DEP05,10000000,1
+EMP015,Employee 15,Director,DEP03,5000000000,5
+EMP016,Employee 16,Senior Staff,DEP05,50000000,2
+EMP017,Employee 17,Supervisor,DEP04,150000000,3
+EMP018,Employee 18,Senior Staff,DEP06,50000000,2
+EMP019,Employee 19,Senior Staff,DEP03,50000000,2
+EMP020,Employee 20,Manager,DEP01,500000000,4
+EMP021,Employee 21,Staff,DEP04,10000000,1
+EMP022,Employee 22,Staff,DEP04,10000000,1
+EMP023,Employee 23,Senior Staff,DEP06,50000000,2
+EMP024,Employee 24,Senior Staff,DEP01,50000000,2
+EMP025,Employee 25,Senior Staff,DEP03,50000000,2
+EMP026,Employee 26,Staff,DEP02,10000000,1
+EMP027,Employee 27,Senior Staff,DEP03,50000000,2
+EMP028,Employee 28,Staff,DEP05,10000000,1
+EMP029,Employee 29,Supervisor,DEP03,150000000,3
+EMP030,Employee 30,Senior Staff,DEP05,50000000,2
+EMP031,Employee 31,Manager,DEP01,500000000,4
+EMP032,Employee 32,Staff,DEP04,10000000,1
+EMP033,Employee 33,Senior Staff,DEP02,50000000,2
+EMP034,Employee 34,Supervisor,DEP06,150000000,3
+EMP035,Employee 35,Supervisor,DEP04,150000000,3
+EMP036,Employee 36,Supervisor,DEP01,150000000,3
+EMP037,Employee 37,Staff,DEP04,10000000,1
+EMP038,Employee 38,Supervisor,DEP03,150000000,3
+EMP039,Employee 39,Supervisor,DEP03,150000000,3
+EMP040,Employee 40,Senior Staff,DEP05,50000000,2

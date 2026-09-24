@@ -1,0 +1,13 @@
+cost_center_id,cost_center_name,department_id,department_name,entity_id,entity_name,manager_id
+CC001,IT Cost Center 1,DEP01,IT,ENT01,PT Induk Holding,EMP002
+CC002,Production Cost Center 2,DEP02,Production,ENT02,PT Cabang Surabaya,EMP003
+CC003,Finance Cost Center 3,DEP03,Finance,ENT03,PT Cabang Medan,EMP004
+CC004,HR & GA Cost Center 4,DEP04,HR & GA,ENT01,PT Induk Holding,EMP005
+CC005,Marketing Cost Center 5,DEP05,Marketing,ENT02,PT Cabang Surabaya,EMP006
+CC006,R&D Cost Center 6,DEP06,R&D,ENT03,PT Cabang Medan,EMP007
+CC007,IT Cost Center 7,DEP01,IT,ENT01,PT Induk Holding,EMP008
+CC008,Production Cost Center 8,DEP02,Production,ENT02,PT Cabang Surabaya,EMP001
+CC009,Finance Cost Center 9,DEP03,Finance,ENT03,PT Cabang Medan,EMP002
+CC010,HR & GA Cost Center 10,DEP04,HR & GA,ENT01,PT Induk Holding,EMP003
+CC011,Marketing Cost Center 11,DEP05,Marketing,ENT02,PT Cabang Surabaya,EMP004
+CC012,R&D Cost Center 12,DEP06,R&D,ENT03,PT Cabang Medan,EMP005
